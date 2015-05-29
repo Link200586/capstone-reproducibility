@@ -20,7 +20,7 @@ instead (e.g. alpha)
 
 <!-- Load the politics.csv data file. -->
 
-
+Here is where I'll load the data.
 
 <!-- 
 Check the structure.
